@@ -1,0 +1,1 @@
+web: gunicorn django_todo1.wisgi:application
